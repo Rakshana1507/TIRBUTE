@@ -1,2 +1,2 @@
-# TIRBUTE
-osasis intership 
+# TRIBUTE
+oasis intership 
